@@ -1,5 +1,4 @@
 import time
-import Main
 
 def code():
     file = open("data/turtles.csv", "r")
