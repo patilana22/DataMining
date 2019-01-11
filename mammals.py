@@ -12,7 +12,7 @@ def code():
             elif data[7] == '"Y"':
                 alive += 1
         except Exception:
-           pass
+            pass
     f = 0
     for i in numbers:
         f += numbers[i]

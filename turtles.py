@@ -14,6 +14,6 @@ def code():
     print "In the file there are", alive, "turtles found alive."
     print "In the file there are", dead, "turtles found dead."
     time.sleep(1)
-    print "Alive turtle to dead turtle ratio:", float(alive)/dead
+    print "Alive turtle to dead turtle ratio:", float(alive) / dead
     print "Percentage Alive:", (float(alive)/(alive + dead)) * 100
     print "Percentage Dead:", (float(dead)/(alive + dead)) * 100
