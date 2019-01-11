@@ -1,3 +1,11 @@
+#!/usr/bin/python
+#
+
+# @author Anand Patil
+# @version January 11, 2018
+# @course Programming 1
+# @assign.ment Data Mining
+
 def code():
     file = open("data/gliders.csv", "r")
     numbers = []
